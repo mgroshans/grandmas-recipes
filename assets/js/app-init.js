@@ -1,6 +1,4 @@
-window.App = Ember.Application.create({
-    LOG_TRANSITIONS: true
-});
+window.App = Ember.Application.create({});
 
 Ember.Inflector.inflector.irregular('category', 'categories');
 
