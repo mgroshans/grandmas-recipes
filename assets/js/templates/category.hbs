@@ -1,9 +1,9 @@
 <div class="container">
-    {{#each recipe in controller.recipes}}
+    {{#groupedEach recipe in controller.recipes}}
         <div class="col-xs-6 text-center">
             {{#link-to "recipe" recipe}}
-                {{recipe.name}}
+                {{unbound recipe.name}}
             {{/link-to}}
         </div>
-    {{/each}}
+    {{/groupedEach}}
 </div>

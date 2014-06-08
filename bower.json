@@ -2,7 +2,7 @@
   "name": "grandmas-recipes",
   "version": "0.1.0",
   "description": "A website to preserve recipes my grandmother collected.",
-  "license": "MIT",
+  "license": "GPL 2.0",
   "private": true,
   "ignore": [
     "**/.*",

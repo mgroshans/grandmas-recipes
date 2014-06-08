@@ -39,8 +39,8 @@ module.exports = function(grunt) {
                     'bower_components/jquery/dist/jquery.min.js',
                     'bower_components/bootstrap/dist/js/bootstrap.min.js',
                     'bower_components/handlebars/handlebars.runtime.min.js',
-                    'bower_components/ember/ember.prod.js',
-                    'bower_components/ember-data/ember-data.prod.js',
+                    'bower_components/ember/ember.min.js',
+                    'bower_components/ember-data/ember-data.min.js',
                 ],
                 dest: 'public/js/libs.js'
             }

@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "Michael Groshans",
-  "license": "MIT",
+  "license": "GPL 2.0",
   "repository": "https://github.com/mgroshans/grandmas-recipes.git",
   "dependencies": {
     "grunt": "~0.4.5",
